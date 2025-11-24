@@ -1,4 +1,7 @@
 Problem Statement:There are a lot of websites , apps which helps us in finding real time weather aqi, but very less when it comes for real life importance. Eg. Not everyone knows that aqi above 250 is considered harmful for human beings , due to which even when some knows about the AQI level many are unaware that whether they should wear mask , or stay in home . This assistant helps those people. Also many weather based websites have very long loading times due to ads and trackers. Most of the weather apps and websites just gives raw numbers without actionable advice(eg. “Should I go outside today with umbrella or without umbrella” or “Should I was my clothes today”).
+
 Scope of the Project: In future this project can be enchanced more by using real time GPS, such that user don't has to manually put the location again and again.More of the personalisation can be added in it for single user .
+
 Target Users:Ths project can be used by many people like: students especially hostellers , who need quick weather info before heading out.People using low end devices.
+
 High Level Features: The program displays real time data of weather,temperature,air quality index(AQI),humidity.And it not only displays just raw data but also gives real life advice using if-elif statements.
