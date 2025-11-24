@@ -14,10 +14,9 @@ Technologies/tools used: This program is made using Python coding language.Also 
  Steps to install & run the project : 1. Install Python
    Make sure Python is installed on your computer.
 2.Download the Code
-   Download the `Project.py` file from this repository.
+   Download the `PROJECT.py` file from this repository.
 3. Install the Library
    Open your terminal (Command Prompt) and run this command:
-   bash
    pip install requests
    Run the App Type this command in your terminal to start the bot--> python PROJECT.py
    
